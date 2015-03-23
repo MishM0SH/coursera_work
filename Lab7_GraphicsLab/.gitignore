@@ -1,0 +1,10 @@
+/bin
+/proguard.cfg
+/GraphicsLab.mp4
+/Lab-Graphics.pdf
+/src/.DS_Store
+/src/course/.DS_Store
+/src/course/labs/.DS_Store
+/.DS_Store
+/.settings/*
+/.project
